@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "ギャラリー"
-    url: /gallery/
+    url: /gallery/gallery
   - title: "ブログ"
     url: /blog/
     
