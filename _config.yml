@@ -19,14 +19,14 @@ locale                   : "ja-JP"
 title                    : "小金井北高校写真部"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "副部長"
+description              : "小金井北高校写真部の公式ウェブサイトです！普段の活動について掲載しています。"
+url                      : "https://fchisa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "fchisa/fchisa.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "小金井北高校写真部"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -288,3 +288,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
