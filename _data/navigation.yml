@@ -4,4 +4,7 @@ main:
     url: /gallery/gallery
   - title: "ブログ"
     url: /blog/
-    
+  - title: "Twitter"
+    url: https://twitter.com/kokita_photo
+  - title: "Instagram"
+    url: https://www.instagram.com/photo202141/

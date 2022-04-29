@@ -8,7 +8,7 @@ toc: true
 ---
 ## 部活動
 ### 体育祭
-
+{% include figure image_path="https://2.bp.blogspot.com/-Zwa0vYSX7Fw/W1QPOQKKOCI/AAAAAAABNds/EP4VqoXmvdMeZRcc9lPxSRq699_tUIGKQCLcBGAs/s450/train_jousya_man.png" alt="this is a placeholder image" caption="This is a figure caption." %}
 ### 文化祭
 
 ### 球技大会
