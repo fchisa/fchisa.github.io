@@ -25,7 +25,7 @@ toc: true
 ### 生き物
 
 ### 天体
-
+{% include figure image_path="assets/images/personal/astro/P1010293.JPG" alt="オリオン座" caption="オリオン座 自宅にて撮影" %}
 ### 人物
 
 ### 鉄道
