@@ -289,3 +289,6 @@ defaults:
       share: true
       related: true
       show_date: true
+  -sidebar:
+    -title: "Twitter"
+    -text: "<a class="twitter-timeline" href="https://twitter.com/kokita_photo?ref_src=twsrc%5Etfw">Tweets by kokita_photo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> "
