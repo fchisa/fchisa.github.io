@@ -8,7 +8,7 @@ toc: true
 ---
 ## 部活動
 ### 体育祭
-{% include figure image_path="https://2.bp.blogspot.com/-Zwa0vYSX7Fw/W1QPOQKKOCI/AAAAAAABNds/EP4VqoXmvdMeZRcc9lPxSRq699_tUIGKQCLcBGAs/s450/train_jousya_man.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+
 ### 文化祭
 
 ### 球技大会
@@ -29,3 +29,4 @@ toc: true
 ### 人物
 
 ### 鉄道
+{% include figure image_path="/assets/images/unsplash-image-10.jpg" alt="八王子駅に停車するHD300形機関車" caption="八王子駅に停車するHD300形機関車" %}
