@@ -29,4 +29,4 @@ toc: true
 ### 人物
 
 ### 鉄道
-{% include figure image_path="assets\images\personal\railway\PC280072.JPG" alt="八王子駅に停車するHD300形機関車" caption="八王子駅に停車するHD300形機関車" %}
+{% include figure image_path="assets/images/personal/railway/PC280072.JPG" alt="八王子駅に停車するHD300形機関車" caption="八王子駅に停車するHD300形機関車" %}
