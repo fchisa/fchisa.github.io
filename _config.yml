@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "副部長"
+  name             : "写真部"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "兼部してます。"
-  location         : "Call教室"
+  bio              : "写真撮ってます"
+  location         : "講義室1"
   email            :
   links:
     - label: "Email"
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/photo202141/"
 
 
 # Reading Files
