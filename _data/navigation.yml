@@ -3,7 +3,7 @@ main:
   - title: "ギャラリー"
     url: /gallery/gallery
   - title: "ブログ"
-    url: /blog/
+    url: /blog/blog
   - title: "Twitter"
     url: https://twitter.com/kokita_photo
   - title: "Instagram"
