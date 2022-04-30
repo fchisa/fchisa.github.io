@@ -3,8 +3,6 @@ layout: splash
 title: "ギャラリー"
 author_profile: false
 excerpt: "これまでの作品集"
-classes: wide
-toc: true
 ---
 ## 部活動
 ### 体育祭
