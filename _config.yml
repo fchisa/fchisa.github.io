@@ -19,7 +19,7 @@ locale                   : "ja-JP"
 title                    : "小金井北高校写真部"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "副部長"
+name                     : "小金井北高校写真部"
 description              : "小金井北高校写真部の公式ウェブサイトです！普段の活動について掲載しています。"
 url                      : "https://fchisa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
