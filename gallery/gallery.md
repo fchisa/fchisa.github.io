@@ -80,7 +80,7 @@ gallery:
 ---
 # ギャラリー
 
-{% include gallery layout="half" caption="" %}
+{% include gallery caption="" %}
 <!--
 ## 部活動
 ### 体育祭
