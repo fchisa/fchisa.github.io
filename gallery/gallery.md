@@ -21,7 +21,7 @@ gallery:
       image_path: /assets/images/gallery/サムネ_1.jpg
       alt:
       title
-
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 <!--
 ## 部活動
 ### 体育祭
