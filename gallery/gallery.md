@@ -6,25 +6,81 @@ excerpt: "これまでの作品集"
 gallery:
     - url: /assets/images/gallery/gallery1.jpg
       image_path: /assets/images/gallery/サムネ_1.jpg
-      alt: "あああ"
-      title: "あああ"
-    - url: /assets/images/gallery/gallery1.jpg
-      image_path: /assets/images/gallery/サムネ_1.jpg
-      alt: "あああ"
-      title: "あああ"
-    - url: /assets/images/gallery/gallery1.jpg
-      image_path: /assets/images/gallery/サムネ_1.jpg
-      alt: "あああ"
-      title: "あああ"
-    - url: /assets/images/gallery/gallery1.jpg
-      image_path: /assets/images/gallery/サムネ_1.jpg
-      alt: "あああ"
-      title: "あああ"
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery2.jpg
+      image_path: /assets/images/gallery/サムネ_2.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery3.jpg
+      image_path: /assets/images/gallery/サムネ_3.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery4.jpg
+      image_path: /assets/images/gallery/サムネ_4.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery5.jpg
+      image_path: /assets/images/gallery/サムネ_5.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery6.jpg
+      image_path: /assets/images/gallery/サムネ_6.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery7.jpg
+      image_path: /assets/images/gallery/サムネ_7.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery8.jpg
+      image_path: /assets/images/gallery/サムネ_8.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery9.jpg
+      image_path: /assets/images/gallery/サムネ_9.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery10.jpg
+      image_path: /assets/images/gallery/サムネ_10.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery11.jpg
+      image_path: /assets/images/gallery/サムネ_11.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery12.jpg
+      image_path: /assets/images/gallery/サムネ_12.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery13.jpg
+      image_path: /assets/images/gallery/サムネ_13.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery14.jpg
+      image_path: /assets/images/gallery/サムネ_14.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery15.jpg
+      image_path: /assets/images/gallery/サムネ_15.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery16.jpg
+      image_path: /assets/images/gallery/サムネ_16.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery17.jpg
+      image_path: /assets/images/gallery/サムネ_17.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery18.jpg
+      image_path: /assets/images/gallery/サムネ_18.jpg
+      alt: ""
+      title: ""
+
 ---
-### ギャラリー
+# ギャラリー
 
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery layout="half" caption="" %}
 <!--
 ## 部活動
 ### 体育祭
