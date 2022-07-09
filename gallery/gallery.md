@@ -79,7 +79,7 @@ gallery2:
       title: ""
 ---
 
-# ギャラリー
+## ギャラリー
 
 {% include gallery caption="" %}
 {% include gallery id="gallery2" caption="" %}
