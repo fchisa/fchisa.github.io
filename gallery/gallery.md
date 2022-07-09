@@ -4,6 +4,25 @@ title: "ギャラリー"
 author_profile: false
 excerpt: "これまでの作品集"
 ---
+gallery:
+    - url: /assets/images/gallery/gallery1.jpg
+      image_path: /assets/images/gallery/サムネ_1.jpg
+      alt:
+      title
+    - url: /assets/images/gallery/gallery1.jpg
+      image_path: /assets/images/gallery/サムネ_1.jpg
+      alt:
+      title
+    - url: /assets/images/gallery/gallery1.jpg
+      image_path: /assets/images/gallery/サムネ_1.jpg
+      alt:
+      title
+    - url: /assets/images/gallery/gallery1.jpg
+      image_path: /assets/images/gallery/サムネ_1.jpg
+      alt:
+      title
+
+<!--
 ## 部活動
 ### 体育祭
 
@@ -28,3 +47,4 @@ excerpt: "これまでの作品集"
 
 ### 鉄道
 {% include figure image_path="assets/images/personal/railway/PC280072.JPG" alt="八王子駅に停車するHD300形機関車" caption="八王子駅に停車するHD300形機関車" %}
+-->
