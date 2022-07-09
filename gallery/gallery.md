@@ -16,20 +16,8 @@ gallery:
       image_path: /assets/images/gallery/サムネ_3.jpg
       alt: ""
       title: ""
-    - url: /assets/images/gallery/gallery4.jpg
-      image_path: /assets/images/gallery/サムネ_4.jpg
-      alt: ""
-      title: ""
     - url: /assets/images/gallery/gallery5.jpg
       image_path: /assets/images/gallery/サムネ_5.jpg
-      alt: ""
-      title: ""
-    - url: /assets/images/gallery/gallery6.jpg
-      image_path: /assets/images/gallery/サムネ_6.jpg
-      alt: ""
-      title: ""
-    - url: /assets/images/gallery/gallery7.jpg
-      image_path: /assets/images/gallery/サムネ_7.jpg
       alt: ""
       title: ""
     - url: /assets/images/gallery/gallery8.jpg
@@ -56,16 +44,8 @@ gallery:
       image_path: /assets/images/gallery/サムネ_13.jpg
       alt: ""
       title: ""
-    - url: /assets/images/gallery/gallery14.jpg
-      image_path: /assets/images/gallery/サムネ_14.jpg
-      alt: ""
-      title: ""
     - url: /assets/images/gallery/gallery15.jpg
       image_path: /assets/images/gallery/サムネ_15.jpg
-      alt: ""
-      title: ""
-    - url: /assets/images/gallery/gallery16.jpg
-      image_path: /assets/images/gallery/サムネ_16.jpg
       alt: ""
       title: ""
     - url: /assets/images/gallery/gallery17.jpg
@@ -76,11 +56,33 @@ gallery:
       image_path: /assets/images/gallery/サムネ_18.jpg
       alt: ""
       title: ""
-
+gallery2:
+    - url: /assets/images/gallery/gallery4.jpg
+      image_path: /assets/images/gallery/サムネ_4.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery6.jpg
+      image_path: /assets/images/gallery/サムネ_6.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery7.jpg
+      image_path: /assets/images/gallery/サムネ_7.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery14.jpg
+      image_path: /assets/images/gallery/サムネ_14.jpg
+      alt: ""
+      title: ""
+    - url: /assets/images/gallery/gallery16.jpg
+      image_path: /assets/images/gallery/サムネ_16.jpg
+      alt: ""
+      title: ""
 ---
+
 # ギャラリー
 
 {% include gallery caption="" %}
+{% include gallery id="gallery2" caption="" %}
 <!--
 ## 部活動
 ### 体育祭
