@@ -8,15 +8,15 @@ gallery:
     - url: /assets/images/gallery/gallery1.jpg
       image_path: /assets/images/gallery/サムネ_1.jpg
       alt:
-      title
+      title:
     - url: /assets/images/gallery/gallery1.jpg
       image_path: /assets/images/gallery/サムネ_1.jpg
       alt:
-      title
+      title:
     - url: /assets/images/gallery/gallery1.jpg
       image_path: /assets/images/gallery/サムネ_1.jpg
       alt:
-      title
+      title:
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 <!--
 ## 部活動
