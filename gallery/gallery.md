@@ -16,6 +16,10 @@ gallery:
       image_path: /assets/images/gallery/サムネ_1.jpg
       alt: "あああ"
       title: "あああ"
+    - url: /assets/images/gallery/gallery1.jpg
+      image_path: /assets/images/gallery/サムネ_1.jpg
+      alt: "あああ"
+      title: "あああ"
 ---
 ### ギャラリー
 
